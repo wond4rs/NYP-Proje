@@ -1,2 +1,0 @@
-12345678901,100,Tahlil Ücreti
-12345678902,200,Randevu Ücreti

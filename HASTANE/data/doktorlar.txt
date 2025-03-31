@@ -1,3 +1,0 @@
-Dr.Harun Emre,Ortopedi,09:00-15:00
-Dr.Ömer Faruk,Dahiliye,10:00-16:00
-Dr.Can,Nöroloji,08:00-15:00
