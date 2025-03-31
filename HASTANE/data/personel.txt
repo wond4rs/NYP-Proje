@@ -1,0 +1,2 @@
+Sude,Resepsiyonist,sude123
+Fatih,Teknisyen,fatih456
