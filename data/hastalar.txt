@@ -1,0 +1,4 @@
+Emre,yıldız,11111111111,1234,
+Sude,Çobaner,12345678900,sude,
+umut,gumus,12345678901,umut123,astım
+ayça,şar,11223344556,ayça123,
